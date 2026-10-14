@@ -35,3 +35,4 @@ thead th { background: var(--dark); color: #fff; }
 tbody tr:hover { background: #faf7ff; }
 .empty { text-align: center; color: #6b7088; padding: 24px; }
 .actions { display: flex; gap: 8px; }
+
